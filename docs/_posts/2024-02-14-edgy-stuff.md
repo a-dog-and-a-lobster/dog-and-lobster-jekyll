@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Edgy Stuff"
-date:   2023-05-01 11:40:38 -0800
+date:   2023-05-01
 categories: jekyll update lobster
 ---
 

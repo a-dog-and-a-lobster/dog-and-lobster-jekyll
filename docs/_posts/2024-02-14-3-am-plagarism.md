@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3am Plagarism"
-date:   2023-11-22 11:40:38 -0800
+date:   2023-11-22
 categories: jekyll update lobster
 ---
 
