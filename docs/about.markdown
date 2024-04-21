@@ -5,4 +5,4 @@ permalink: /about/
 ---
 
 
-A place for thoughts and poems
+In their own styles, a dog and a lobster try to make sense of the world
