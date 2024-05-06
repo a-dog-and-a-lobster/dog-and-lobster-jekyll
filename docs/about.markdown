@@ -4,5 +4,4 @@ title: About
 permalink: /about/
 ---
 
-
-A place for thoughts and poems
+Two friends try to make sense of the world
