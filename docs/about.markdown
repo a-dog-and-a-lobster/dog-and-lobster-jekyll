@@ -4,5 +4,4 @@ title: About
 permalink: /about/
 ---
 
-
-In their own styles, a dog and a lobster try to make sense of the world
+In their own ways, a dog and a lobster try to make sense of the world
