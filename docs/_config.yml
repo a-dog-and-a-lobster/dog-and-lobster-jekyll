@@ -28,6 +28,7 @@ title: A Dog and a Lobster
 url: "https://a-dog-and-a-lobster.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  andrewkhans
+email: dogandlobster@gmail.com
 
 # Build settings
 theme: minima

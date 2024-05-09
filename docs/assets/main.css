@@ -106,7 +106,7 @@ table td { border: 1px solid #e8e8e8; }
 
 .contact-list, .social-media-list { list-style: none; margin-left: 0; }
 
-.footer-col-wrapper { font-size: 15px; color: #000; margin-left: -15px; }
+.footer-col-wrapper { font-size: 15px; color: var(--textColor); margin-left: -15px; }
 
 .footer-col { float: left; margin-bottom: 15px; padding-left: 15px; }
 
