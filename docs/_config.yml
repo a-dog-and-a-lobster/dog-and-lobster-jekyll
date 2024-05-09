@@ -27,7 +27,7 @@ title: A Dog and a Lobster
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://a-dog-and-a-lobster.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  andrewkhans
+# github_username:  andrewkhans
 
 # Build settings
 theme: minima

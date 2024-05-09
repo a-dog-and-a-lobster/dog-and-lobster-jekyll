@@ -12,7 +12,7 @@ layout: default
   {%- if site.posts.size > 0 -%}
     <!-- Dog half of the website -->
     <div style="float:left;width:50%">
-        <h2 class="post-list-heading">{{ page.list_title | default: "🐕 Dog" }}</h2>
+        <h2 class="post-list-heading-dog">{{ page.list_title | default: "Dog" }}</h2>
         <ul class="post-list">
         {%- for post in site.posts -%}
             {% if post.categories contains 'dog' %}
@@ -31,10 +31,10 @@ layout: default
             {%- endif -%}
         {%- endfor -%}
     </div>
-    
+
     <!-- Lobster half of the website -->
     <div style="float:left;width:50%">
-        <h2 class="post-list-heading">{{ page.list_title | default: "🦞 Lobster" }}</h2>
+        <h2 class="post-list-heading-lobster">{{ page.list_title | default: "Lobster" }}</h2>
         <ul class="post-list">
         {%- for post in site.posts -%}
             {% if post.categories contains 'lobster' %}
