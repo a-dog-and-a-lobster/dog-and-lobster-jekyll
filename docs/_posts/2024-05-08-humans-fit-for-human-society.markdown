@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "We aren’t fit for human society"
-date:   2024-04-17
+date:   2024-05-08
 categories: jekyll update dog
 ---
 
