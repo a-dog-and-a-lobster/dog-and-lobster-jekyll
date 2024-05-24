@@ -17,7 +17,6 @@ categories: jekyll update lobster
 夏天的风吹散了夜里的云朵 \
 五月的月亮是我的爱人 \
 
-
 Pick up that pebble on the beach \
 It was a drop of tear from a heartbroken person\
 Throw it into the sea with all your strength \
