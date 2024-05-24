@@ -28,7 +28,7 @@ Waking up, only to sleep again
 Daydream? Grab the book on the nightstand \
 Sink into the funeral in Her brain \
 Dwell in the ocean of possibilities \
-Where life steps almost straight \
+Where life steps almost straight 
 
 Dwell though, only for so long\
 For reality sinks in, one way or the other \
