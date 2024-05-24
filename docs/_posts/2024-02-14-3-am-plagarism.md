@@ -8,22 +8,22 @@ categories: jekyll update lobster
 Quietly I have left\
 Just like how quietly I have arrived \
 Quietly I have passed by\
-The late Autumn of New England \
+The late Autumn of New England 
 
 The Crescent Moon by the Charles River\
 Was once a friend of mine \
 The up-and-down waves\
-I had dreamt of, over and over \
+I had dreamt of, over and over 
 
 Streets full of red and yellow leaves\
 Painted a picture that rivals Monet’s \
 In days like these\
-I wished I was not a wanderer \
+I wished I was not a wanderer 
 
 The distant mountains beyond the expressway \
 They are destinations and possibilities\
 Following sunsets to embrace the Night \
-Waking up, only to sleep again \
+Waking up, only to sleep again 
 
 Daydream? Grab the book on the nightstand \
 Sink into the funeral in Her brain \
@@ -33,7 +33,7 @@ Where life steps almost straight \
 Dwell though, only for so long\
 For reality sinks in, one way or the other \
 There is nothing more common\
-Than not wanting to say goodbye \
+Than not wanting to say goodbye 
 
 Quiet I have left\
 Just like how quietly I have arrived \
