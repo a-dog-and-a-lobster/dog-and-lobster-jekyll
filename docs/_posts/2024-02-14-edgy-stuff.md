@@ -15,7 +15,7 @@ categories: jekyll update lobster
 扑通一声，陆地上的海盗 \
 听见了什么东西落水的声音 \
 夏天的风吹散了夜里的云朵 \
-五月的月亮是我的爱人 \
+五月的月亮是我的爱人
 
 Pick up that pebble on the beach \
 It was a drop of tear from a heartbroken person\
