@@ -22,8 +22,8 @@ Pick up that pebble on the beach \
 It was a drop of tear from a heartbroken person\
 Throw it into the sea with all your strength \
 Starting tonight, it drifts up and down with the waves \
-The view across water, blurred in the light drizzle \ 
-Is it an abandoned two-story condo \ 
+The view across water, blurred in the light drizzle \
+Is it an abandoned two-story condo \
 Or a golden grand hotel \
 'Splash', the Pirate on land \
 Heard the sound of something hitting the water \
