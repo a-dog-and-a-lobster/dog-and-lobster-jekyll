@@ -2,6 +2,7 @@
 <img src="https://i.ytimg.com/vi/zHrcg16PbJ8/maxresdefault.jpg" alt="doge and lobster" width="400"/>
 
 ## Website Plans
+- Add a default font, the fonts are kinda random
 - Add a comments section to posts, or have an email address for readers to respond to
 - Get a cool cartoon banner at the top of a doge and a lobster fighting at dusk, commission Zoey to draw it or generate it with AI
 - Make sure it looks good on mobile
