@@ -29,7 +29,7 @@ Tumbling and turning\
 午夜流星何去何往\
 Where does the midnight meteor end up\
 路海長 青夜曠\
-Far road, deep sea\ 
+Far road, deep sea\
 blue wide night sky\
 越過群山追斜陽\
 Pass the mountains to chase the setting sun 
@@ -39,9 +39,9 @@ Unravel the veil, look back to hometown\
 只見潮溼的月亮\
 All there is is a moist moon\
 雨水衝不掉\
-The rain cannot wash away\ 
+The rain cannot wash away\
 常德路上爬滿蛛網的門窗\
-The spiderweb filled building\ 
+The spiderweb filled building\
 By Changde avenue 
 
 夢裡回到他的身旁\
@@ -80,7 +80,7 @@ In the real world the flowers won’t cry\
 沒有質疑 沒有道理\
 No doubts, no meanings\
 褶皺的信乘飛雨\
-Crumpled letters leave with the flying rain\
+Crumpled letters leave with the flying rain
 
 漫山遍野你的臉龐\
 The mountains and the fields are filled with your face\
