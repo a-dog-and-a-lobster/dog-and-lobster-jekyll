@@ -20,7 +20,7 @@ Was once a friend of mine\
 The up-and-down waves\
 I had dreamt of, over and over 
 
-查理湖畔的残月\
+查理河畔的残月\
 曾是我的朋友\
 起起伏伏的波浪\
 我一次次地梦过
