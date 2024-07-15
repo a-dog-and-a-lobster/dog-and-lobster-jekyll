@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "3am Plagarism"
+title:  "3am Plagarism / 凌晨三点的抄袭"
 date:   2023-11-22
 categories: jekyll update lobster
 ---
@@ -23,7 +23,7 @@ I had dreamt of, over and over
 查理湖畔的残月\
 曾是我的朋友\
 起起伏伏的波浪\
-我已次次地梦过
+我一次次地梦过
 
 Streets full of red and yellow leaves\
 Painted a picture that rivals Monet’s \
@@ -42,7 +42,7 @@ Waking up, only to sleep again
 
 公路外的远山\
 他们是终点，是可能\
-追着落日拥抱夜晚\
+随着落日拥抱夜晚\
 醒来，只为了又一次沉眠
 
 Daydream? Grab the book on the nightstand\
@@ -53,7 +53,7 @@ Where life steps almost straight
 做白日梦？拿去床头柜上的书本\
 坠入她脑中的葬礼\
 遨游在可能的海\
-那里我的生活似乎走上正轨
+那里我的生活似乎走上了正轨
 
 Dwell though, only for so long\
 For reality sinks in, one way or the other \
