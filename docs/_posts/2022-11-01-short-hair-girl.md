@@ -6,9 +6,9 @@ categories: jekyll update lobster
 ---
 
 Hey short hair girl\
-can you please walk closer\
+Can you please walk closer\
 Let me take another look at the ring on your\
-Left index finger and your right earring\
+Right index finger and your left earring\
 Your body reminds me of the waves from the Charles River\
 Your laugher is the Northeast mellow wind\
 I remeber your slightly frowning eyebrows\
@@ -17,7 +17,7 @@ Black sweater, blue jeans, and a small tied up ponytail
 Hey short hair girl\
 Your let go of my hand, in Boston's Spring\
 You are not my lover, not my friend, and also not a stranger\
-Goodbye short hair girl, let this be the last\ 
+Goodbye short hair girl, let this be the last\
 Night that I think of you\
 Let me move on, stop looking back\
 Let me get drunk on the streets of New York City\
