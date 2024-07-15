@@ -11,9 +11,9 @@ Breathless, Calmness, and Loneliness, all blended into One\
 A haven for a wretched soul 
 
 The Moon placed a translucent veil on top of Her\
-Starts, dimmed, in the river's reflection\
+Stars, dimmed, in the river's reflection\
 Before me was a glimpse of Eternity\
-I felt in love with her then and I am in love with Her now
+I felt in love with Her then and I am in love with Her now
 
 Midnight sky, choppers swirled to and fro, wanderers stood still\
 The West Wind carried waves of\
@@ -26,7 +26,7 @@ The silence turned into whispers and murmurs-\
 The glares across the river, animated, no longer still
 
 A tickling sensation crawled on my back, paralyzing me\
-Then sound of a quack-quack ended my misery\
+Then the sound of a quack-quack ended my suffering\
 I still remembered the pitch-black shadows of the ducklings\
 And the slight ghastly cries of the word "Away", till this day
 
