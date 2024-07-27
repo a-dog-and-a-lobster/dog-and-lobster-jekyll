@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wave-Particle-Duality"
+title:  "Wave Particle Duality"
 date:   2024-07-27
 categories: jekyll update lobster
 ---
