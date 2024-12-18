@@ -5,7 +5,7 @@ date:   2024-12-17
 categories: jekyll update lobster
 ---
 
-Selection of writings from 2022 to 2024
+Selection of writings from 2022 to 2024, about her
 
 Cannot ask the moon to stop waning \
 Cannot ask the sky to stop crying \
@@ -21,7 +21,7 @@ Cannot ask her to like me a little bit more
  \
 There are things in this life \
 Once you have started, it's hard to stop \
-Like Eating potato chips \
+Like eating potato chips \
 Like drinking whisky \
 Like loving her
 
@@ -37,7 +37,7 @@ Once you have started, it's hard to stop
  \
  \
 It has been a while, but I still love you \
-And part of you will be on my wind until the end of time \
+And part of you will be on my mind until the end of time \
 That's just how They made me \
 Sad, sentimental, and a little clingy
 
@@ -50,7 +50,7 @@ And I love you the way Earth loved the Sun \
 Since you made it clear that you do not love me \
 I have to move on, though I know I cannot, because \
 Part of you will be on my mind until the end of time \
-That is just how they made me \
+That is just how They made me \
 Sad, sentimental, and a little clingy
 
 I want to change the way I love you \
@@ -63,7 +63,7 @@ Year 2062, when Earth sees Halley again, is when I hope to see you again
  \
  \
 There is something about the way \
-The street lights touch your face \
+The street light touches your face \
 The French call it je ne sais quoi \
 I call it fall in love
  \
@@ -122,20 +122,20 @@ Time marches on - days turn to weeks \
 Weeks then months - months until now \
 Sometimes I wonder if - if I pulled back a little \
 Perhaps things would be different - only sometimes \
-Other times I dream - if you were the one \ 
+Other times I dream - if you were the one \
 The one - who got away \
 Like the song goes - "I'll dream each night \
 Of some version of you" - though I stopped dreaming \
 About you - a long time ago \
 We never really got closure - maybe it's for the best \
 I should let you go - my short hair girl \
-I promised myself - I would stop writing about you \ 
+I promised myself - I would stop writing about you \
 Months ago - years ago - an eternity ago \
 I ate my words - doing that a lot lately \
 Somehow I have a sneak feeling - this time \
 It might be true - who am I to say though \
 Once a fool in love - always a fool \
-In love - even just - in the head \
+In love - even just in the head \
 Too quick - to fall in love \
 Forever - to fall out of it
 
