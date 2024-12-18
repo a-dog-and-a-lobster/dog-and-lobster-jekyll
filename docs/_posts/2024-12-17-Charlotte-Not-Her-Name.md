@@ -7,61 +7,69 @@ categories: jekyll update lobster
 
 Selection of writings from 2022 to 2024
 
-Cannot ask the moon to stop waning /
-Cannot ask the sky to stop crying /
-cannot ask the Charles to flow south /
-Cannot ask the mouth to swallow the truth /
-Cannot ask the Long Island Sound to take me whole /
-Cannot ask Mount Fuji to be mine and mine alone /
-Cannot ask time to settle any score /
+Cannot ask the moon to stop waning \
+Cannot ask the sky to stop crying \
+cannot ask the Charles to flow south \
+Cannot ask the mouth to swallow the truth \
+Cannot ask the Long Island Sound to take me whole \
+Cannot ask Mount Fuji to be mine and mine alone \
+Cannot ask time to settle any score \
 Cannot ask her to like me a little bit more
-
-
-There are things in this life /
-Once you have started, it's hard to stop / 
-Like Eating potato chips / 
-Like drinking whisky /
+ \
+ \
+ \
+ \
+There are things in this life \
+Once you have started, it's hard to stop \
+Like Eating potato chips \
+Like drinking whisky \
 Like loving her
 
-I fell in love with her then /
-I am trying to stop loving her now /
+I fell in love with her then \
+I am trying to stop loving her now \
 I will stop loving her in due time
 
-But like I said / 
-There are things in this life /
+But like I said \
+There are things in this life \
 Once you have started, it's hard to stop
-
-
-It has been a while, but I still love you / 
-And part of you will be on my wind until the end of time /
-That's just how They made me /
+ \
+ \
+ \
+ \
+It has been a while, but I still love you \
+And part of you will be on my wind until the end of time \
+That's just how They made me \
 Sad, sentimental, and a little clingy
 
-I love you the way waves love the shore /
-Restless, and with no hesitation /
-And I love you the way Earth loved the Sun /
-23 hours and 56 minutes a day /
+I love you the way waves love the shore \
+Restless, and with no hesitation \
+And I love you the way Earth loved the Sun \
+23 hours and 56 minutes a day \
 365.24 days a year, never missing a beat
 
-Since you made it clear that you do not love me /
-I have to move on, though I know I cannot, because /
-Part of you will be on my mind until the end of time /
-That is just how they made me /
+Since you made it clear that you do not love me \
+I have to move on, though I know I cannot, because \
+Part of you will be on my mind until the end of time \
+That is just how they made me \
 Sad, sentimental, and a little clingy
 
-I want to change the way I love you /
-I want to love you the way fire loves everything /
-It burns and burns, but dies without proper kindling /
-And I want to love you the way Comet Halley loves Earth /
+I want to change the way I love you \
+I want to love you the way fire loves everything \
+It burns and burns, but dies without proper kindling \
+And I want to love you the way Comet Halley loves Earth \
 Year 2062, when Earth sees Halley again, is when I hope to see you again
-
-
+ \
+ \
+ \
+ \
 There is something about the way \
 The street lights touch your face \
 The French call it je ne sais quoi \
 I call it fall in love
-
-
+ \
+ \
+ \
+ \
 Hey short hair girl\
 Can you please walk closer\
 Let me take another look at the ring on your\
@@ -80,8 +88,10 @@ Let me move on, stop looking back\
 Let me get drunk on the streets of New York City\
 Passed out by the Long Island Sound\
 Forget the name of yours, no longer live in the past or a dream
-
-
+ \
+ \
+ \
+ \
 Two years ago, I would not be able to stop myself \
 From telling you something \
 In the lines of, oh I am at a camping site in Ohio \
@@ -102,8 +112,10 @@ Came from the star we are \
 Return to the star we shall \
 This night shall pass \
 Along with my everything
-
-
+ \
+ \
+ \
+ \
 I used to write about you - a lot \
 Probably too much - for my own benefit \
 Time marches on - days turn to weeks \
