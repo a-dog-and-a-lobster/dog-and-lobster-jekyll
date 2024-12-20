@@ -9,7 +9,7 @@ Selection of writings from 2022 to 2024, about her
 
 Cannot ask the moon to stop waning \
 Cannot ask the sky to stop crying \
-cannot ask the Charles to flow south \
+Cannot ask the Charles to flow south \
 Cannot ask the mouth to swallow the truth \
 Cannot ask the Long Island Sound to take me whole \
 Cannot ask Mount Fuji to be mine and mine alone \
@@ -65,7 +65,7 @@ Year 2062, when Earth sees Halley again, is when I hope to see you again
 There is something about the way \
 The street light touches your face \
 The French call it je ne sais quoi \
-I call it fall in love
+I call it falling in love
  \
  \
  \
@@ -76,7 +76,7 @@ Let me take another look at the ring on your\
 Right index finger and your left earring\
 Your body reminds me of the waves from the Charles River\
 Your laugher is the Northeast mellow wind\
-I remeber your slightly frowning eyebrows\
+I remember your slightly frowning eyebrows\
 Black sweater, blue jeans, and a small tied up ponytail
 
 Hey short hair girl\
