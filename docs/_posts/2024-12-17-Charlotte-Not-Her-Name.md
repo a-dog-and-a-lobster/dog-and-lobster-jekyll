@@ -94,7 +94,7 @@ Forget the name of yours, no longer live in the past or a dream
  \
 Two years ago, I would not be able to stop myself \
 From telling you something \
-In the lines of, oh I am at a camping site in Ohio \
+Along the lines of, oh I am at a camping site in Ohio \
 And I wish you could be with me \
 And see all of the stars I am seeing \
 The universe had different plans for the two of us \
@@ -132,7 +132,7 @@ I should let you go - my short hair girl \
 I promised myself - I would stop writing about you \
 Months ago - years ago - an eternity ago \
 I ate my words - doing that a lot lately \
-Somehow I have a sneak feeling - this time \
+Somehow I have a sneaking feeling - this time \
 It might be true - who am I to say though \
 Once a fool in love - always a fool \
 In love - even just in the head \
